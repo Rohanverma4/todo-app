@@ -1,0 +1,38 @@
+
+
+.editDiv {
+    width: 42%;
+    height: 7rem;
+    display: flex;
+    background-color: aqua;
+    margin: 1rem auto;
+    align-items: center;
+}
+
+.editDiv > input {
+    width: 65%;
+    height: 1.6rem;
+    margin-left: 1.5rem;
+    border: none;
+}
+
+.editDiv > button {
+    width: 15%;
+    height: 1.9rem;
+    margin-left: 2rem;
+    background-color: rgb(181, 96, 189);
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+
+.back{
+    width: 7%;
+    height: 1.9rem;
+    margin-left: 2rem;
+    background-color: rgb(105, 193, 228);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    margin-top: 1rem;
+}

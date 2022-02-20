@@ -1,0 +1,40 @@
+
+.itemsDiv{
+    margin: 3rem auto;
+    /* border: 1px solid black; */
+    width: 45%;
+    background-color: antiquewhite;
+
+}
+
+.listItemDiv{
+    display: flex;
+    align-items: center;
+}
+
+.listItemDiv > h4 {
+    width: 60%;
+}
+
+.listItemDiv > button {
+    width: 10%;
+    height: 1.5rem;
+    margin-right: 1.1rem;
+    border: none;
+    border-radius: 3px;
+}
+
+.status {
+    background-color: rgb(224, 147, 252);
+    color: white;
+}
+
+.delete {
+    background-color: rgb(211, 41, 35);
+    color: rgb(26, 24, 24);
+}
+
+.edit {
+    background-color: rgb(92, 203, 223);
+    color: rgb(255, 255, 255);
+}
